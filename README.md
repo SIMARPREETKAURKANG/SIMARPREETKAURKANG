@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SIMARPREETKAURKANG
+- 👀 I’m interested in web development and programming
+- 🌱 I’m currently learning C# and working on my web development skills(HTML, CSS, Javascript)
+- 💞️ I’m looking to collaborate on a web development project
+- 📫 How to reach me(email): simarkang77@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love painting and embroidery.
